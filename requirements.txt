@@ -1,0 +1,12 @@
+Django==2.2.2
+django-admin-autocomplete-filter==0.2
+django-admin-list-filter-dropdown==1.0.3
+django-admin-multiple-choice-list-filter==0.1.1
+django-adminlte3==0.1.6
+djangorestframework==3.9.4
+djangorestframework-jwt==1.11.0
+djangorestframework-link-header-pagination==0.1.1
+djangorestframework-simplejwt==4.3.0
+mysql==0.0.3
+mysqlclient==2.1.0
+PyJWT==1.7.1
