@@ -4,6 +4,8 @@ from .views import *
 
 
 urlpatterns = [
+    path('', views.index, name='index'),
+    path('facecam_feed', views.facecam_feed, name='facecam_feed'),
     path('register/', RegisterView.as_view()),
     path('login/', LoginView.as_view()),
     path('user/', UserView.as_view()),
